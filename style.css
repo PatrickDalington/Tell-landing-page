@@ -1,0 +1,74 @@
+
+/* ************************************ DESIGN FOR HOME PAGE  **************************************/
+
+.hm-con-1{
+    text-align: center;
+    margin-top: 250px;
+  }
+  
+  .hm-item-h1-title{
+    font-size: 85px;
+    font-weight: bolder;
+    font-family: Quicksand-Bold;
+    src: url('../fonts/Quicksand-Bold.ttf');
+    margin-top: 60px;
+  }
+  
+  .hm-item-p-subtitle{
+    justify-self: center;
+    font-size: 65px;
+    color: rgb(157, 3, 3);
+    font-weight: bolder;
+    font-family: Quicksand-Bold;
+    src: url('../fonts/Quicksand-Bold.ttf');
+  }
+  
+  
+  .hm-item2-h1-title{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 65px;
+    margin-top: 50px;
+  }
+  
+  .threed-photo-slider{
+    height: 400px; 
+    margin-bottom: 70px; 
+    background-color: rgb(247, 251, 253);
+  }
+  
+  
+  .container-for-action{
+    padding: 80px; 
+    background-color: #d6e9f1;
+    width: 100%;
+  }
+  
+  .container-for-skit{
+    padding: 80px; 
+    background-color: #ced5d7;
+    width: 100%;
+  }
+  
+  .container-for-user{
+    padding: 80px; 
+    background-color: #d6e9f1;
+    width: 100%;
+  }
+  
+  .container-for-script{
+    padding: 80px; 
+    background-color: rgb(247, 247, 247);
+  }
+  
+  .rt_btn{ /* Right show more button */
+    margin-top: 10px; 
+    margin-right: 20px;
+    float: right; 
+    padding: 5px;
+    border-radius: 15px; 
+    background-color: black; 
+    color: white;
+  }
+  
+  
